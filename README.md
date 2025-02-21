@@ -1,6 +1,6 @@
 📌 **Introduction**
 <br><br>
-This repository contains essential DevOps &amp; Cloud Engineering scripts for automation, infrastructure as code and monitoring. These scripts demonstrate best practices in DevOps and cloud automation, making this repository a valuable asset for any Cloud Engineer or DevOps professional.
+This repository contains essential DevOps &amp; Cloud Engineering scripts for infrastructure as code and security. These scripts demonstrate best practices in DevOps and cloud automation, making this repository a valuable asset for any Cloud Engineer or DevOps professional.
 # DevOps-Scripts-Part-2
 🔹 **Infrastructure as Code (IaC)**
 <br><br>
